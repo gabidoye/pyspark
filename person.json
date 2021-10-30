@@ -1,0 +1,62 @@
+[
+{
+   "firstName": "Joe",
+   "lastName": "Jackson",
+   "gender": "male",
+   "age": 28,
+   "address": {
+       "streetAddress": "101",
+       "city": "San Diego",
+       "state": "CA"
+   },
+   "phoneNumbers": [
+       { "type": "home", "number": "7349282382" }
+   ]
+},
+
+{
+   "firstName": "Gboye",
+   "lastName": "Peter",
+   "gender": "female",
+   "age": 24,
+   "address": {
+       "streetAddress": "1003 centre street",
+       "city": "San Antonio",
+       "state": "TX"
+   },
+   "phoneNumbers": [
+       { "type": "mobile", "number": "6549282380" }
+   ]
+},
+
+{
+   "firstName": "Kash",
+   "lastName": "Olumo",
+   "gender": "female",
+   "age": 38,
+   "address": {
+       "streetAddress": "43 eko street",
+       "city": "Sir Lanka",
+       "state": "KA"
+   },
+   "phoneNumbers": [
+       { "type": "mobile", "number": "4789282332" }
+   ]
+},
+
+{
+   "firstName": "Kunle",
+   "lastName": "Ajayi",
+   "gender": "male",
+   "age": 60,
+   "address": {
+       "streetAddress": "22 Adkunle yaba",
+       "city": "Lagos",
+       "state": "LA"
+   },
+   "phoneNumbers": [
+       { "type": "home", "number": "2229282432" }
+   ]
+}
+]
+
